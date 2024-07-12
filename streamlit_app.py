@@ -14,7 +14,7 @@ st.header('Samuel Koffler, Undergrad')
 st.info('Student at Michigan State University, focused in Computer Science with an interest in Chemistry and Pharmacology')
 
 icon_size = 20
-https://youtube.com/playlist?list=PL6jgA9JKEkMHi8SsHUa1-qOeUhADCBwwW&si=IlNnJLWHAp2PYCd2
+
 st_button('youtube', 'https://www.youtube.com/@CereaLover123', 'DoodeleJump Speedrunning YouTube channel', icon_size)
 st_button('youtube', 'https://youtube.com/playlist?list=PL6jgA9JKEkMHi8SsHUa1-qOeUhADCBwwW&si=IlNnJLWHAp2PYCd2', 'My Reference Youtube Videos Playlist', icon_size)
 st_button('medium', 'https://data-professor.medium.com/', 'Read my Blogs', icon_size)
